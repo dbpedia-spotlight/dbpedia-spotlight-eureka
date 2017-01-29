@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/sandroacoelho/dbpedia-spotlight-eureka.svg?branch=master)](https://travis-ci.org/sandroacoelho/dbpedia-spotlight-eureka)
+[![Build Status](https://travis-ci.org/dbpedia-spotlight/dbpedia-spotlight-eureka.svg?branch=master)](https://travis-ci.org/dbpedia-spotlight/dbpedia-spotlight-eureka)
 
 
 ## Attention:
